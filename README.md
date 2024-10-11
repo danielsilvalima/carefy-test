@@ -25,5 +25,5 @@ Internações com a data de SAIDA inferior ou igual a data de ENTRADA.
 
 ### Banco de dados
 
-Para gravação e consulta dos dados, está sendo utilizado servidor em nuvem. Segue link
+Para gravação e consulta dos dados, está sendo utilizado servidor em nuvem. Segue link.
 https://app.guitecnology.com.br/
