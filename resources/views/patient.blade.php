@@ -42,7 +42,7 @@
             <div class="card-body">
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="/home">HOME</a></li>
+                        <li class="breadcrumb-item"><a href="/">HOME</a></li>
                         <li class="breadcrumb-item " ><a href="/patient">PACIENTES</a></li>
                     </ol>
 

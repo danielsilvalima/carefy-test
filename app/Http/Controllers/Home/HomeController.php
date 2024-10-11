@@ -92,7 +92,6 @@ class HomeController extends Controller
 
     public function store(Request $request){        
         $patients = $request->patients;
-        //dd($patients);
         $cont = 0;
         foreach ($patients as $patientData) {
             if($patientData['status'] === 'VALIDO'){
