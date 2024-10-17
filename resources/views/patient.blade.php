@@ -97,7 +97,7 @@
 
                 
 
-                <a type="button" href="/home" class="btn btn-outline-info" id="cancel"> CANCELAR</a>
+                <a type="button" href="/" class="btn btn-outline-info" id="cancel"> CANCELAR</a>
 
             </div>
         </div>
